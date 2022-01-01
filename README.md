@@ -17,4 +17,4 @@
 ![](https://media.proglib.io/wp-uploads/-000//1/596b722dc99d1_3qHz285.gif)
 
 ## Bitonic Sort
-![](https://en.wikipedia.org/wiki/Bitonic_sorter#/media/File:BitonicSort.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BitonicSort1.svg/1686px-BitonicSort1.svg.png)
