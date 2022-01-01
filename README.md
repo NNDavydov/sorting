@@ -4,7 +4,7 @@
 | Bubble Sort | O(N) -> O(N^2) -> O(N^2) | O(1) |
 | Quick Sort | O(NlogN) -> O(NlogN) -> O(N^2) | O(logN) |
 | Merge Sort | O(NlogN) -> O(NlogN) -> O(NlogN) | O(N) |
-| Insertion Sort | O(log^2(N)) -> O(log^2(N)) -> O(log^2(N)) | O(1) |
+| Bitonic Sort | O(log^2(N)) -> O(log^2(N)) -> O(log^2(N)) | O(1) |
 
 
 ## Bubble Sort
